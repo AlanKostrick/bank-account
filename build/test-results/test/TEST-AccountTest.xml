@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AccountTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-09-21T00:33:48" hostname="Alans-MBP.home" time="0.02">
+  <properties/>
+  <testcase name="shouldMakeAnInitialWithdrawalOf50AndHaveAnEndingBalanceOf50()" classname="AccountTest" time="0.016"/>
+  <testcase name="shouldMakeAnInitialDepositOf50AndHaveAnEndingBalanceOf150()" classname="AccountTest" time="0.0"/>
+  <testcase name="shouldHaveAnInitialBalanceOf100()" classname="AccountTest" time="0.0"/>
+  <testcase name="shouldHaveAnInitialBalanceOf200()" classname="AccountTest" time="0.001"/>
+  <testcase name="shouldHaveABalanceOf100AfterWithdrawalAttemptOf101()" classname="AccountTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
